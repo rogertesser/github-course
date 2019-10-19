@@ -1,2 +1,0 @@
-git course
-Manda bala
